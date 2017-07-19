@@ -1,6 +1,8 @@
 # COLES
 Class Objects Logic Equations and Serializer (COLES) allows you to create "and, or" expression equations using custom class objects and then serialize them to a string representation
 
+![alt text](https://raw.githubusercontent.com/UbhiTS/COLES/master/COLES/Images/COLES.png)
+
 ## How to use
 Inherit the classes you want to objectify and serialize from the GenericCriteria class (feel free to rename the classes) and override the ToString() method as per your serialization requirements
 ```c#
